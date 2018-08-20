@@ -1,0 +1,12 @@
+{
+    "name": "zen/hello",
+    "description": "hello",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Hello\\":"src/"
+        }
+    }
+}
